@@ -1,10 +1,10 @@
 # TODO
 * Update readme.
 
-## How to run examples
+## Running examples
     cargo run --example basic
 
-## How to run tests
+## Running tests
     cargo test
 
 *Note: Use the --release flag with the above commands to build the binaries in release mode (default is debug mode).*
